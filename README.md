@@ -73,7 +73,7 @@ GitHub: [@talhaDS04](https://github.com/talhaDS04)
 ##  Contact
 
 Feel free to connect with me if you'd like to collaborate or discuss AI!  
-✉️ Email: your-email@example.com *(talhayounas696@gmail.com)*  
+✉️ Email: *(talhayounas696@gmail.com)*  
 
 ---
 
