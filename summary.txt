@@ -1,16 +1,65 @@
- Week 1 & 2 Learning Summary
+ WEEK 1: Introduction to Generative AI (via Kaggle’s 5-Day Learning Path)
 
- Week 1:
-- Completed Kaggle’s 5-Day Generative AI Learning Path
-- Gained an understanding of what Generative AI is and how it works
-- Explored applications of LLMs like text generation, summarization, and translation
-- Learned basic prompting concepts and how AI models are evaluated
+In Week 1, I began my Generative AI journey by completing the Kaggle 5-Day Learning Path. This course introduced me to the fundamental concepts of GenAI, large language models (LLMs), and how these systems generate human-like outputs.
 
- Week 2:
-- Completed 3 short courses from DeepLearning.AI:
-   ChatGPT Prompt Engineering for Developers  
-   Building Systems with ChatGPT  
-   LangChain for LLM Application Development
-- Learned prompt patterns like zero-shot, few-shot, and role-based prompts
-- Understood how to build reliable multi-step LLM systems
-- Explored how to use LangChain for building LLM apps with memory, chains, and tools
+Key Takeaways:
+
+- I learned what Generative AI is — models like ChatGPT, Gemini, Claude, etc., that can generate text, code, images, and more based on input prompts.
+- I explored transformer models and how they process language through tokens and attention mechanisms.
+- The course introduced me to common use cases such as summarization, Q&A, creative writing, and classification.
+- I understood the concept of prompt engineering — how the structure and clarity of prompts directly affect the model’s output.
+- I also learned about risks like hallucination (when models generate false or misleading information) and how human feedback is used to improve models (RLHF – Reinforcement Learning from Human Feedback).
+
+Overall, Week 1 gave me a strong theoretical foundation in how generative models work and how they are applied in practical, real-world scenarios.
+
+
+WEEK 2: Practical Prompt Engineering & LLM System Design
+
+In Week 2, I deepened my understanding through 3 professional-level short courses from DeepLearning.AI.
+
+1.  **ChatGPT Prompt Engineering for Developers**
+
+This course taught me **how to design effective prompts** for ChatGPT using OpenAI’s API. It focused on real-world use cases and hands-on prompt construction.
+
+Key Lessons:
+
+- Learned the difference between **zero-shot**, **few-shot**, and **chain-of-thought** prompting techniques.
+- Practiced formatting prompts to produce reliable, structured, and safe outputs.
+- Understood how to specify roles ("You are a data analyst…") to guide the model's behavior.
+- Learned techniques to reduce hallucination and increase factual correctness (e.g., asking step-by-step questions, requesting sources).
+
+
+2.  **Building Systems with ChatGPT**
+
+This course focused on **composing multiple LLM prompts into larger, reliable systems**. Rather than using a single prompt, I learned how to break a complex task into parts.
+
+Key Takeaways:
+
+- Learned how to design modular prompt pipelines (e.g., Input → Classification → Task-specific prompt → Output).
+- Understood how to **evaluate model outputs** using metrics like helpfulness, accuracy, completeness, and safety.
+- Learned prompt chaining: using the output of one prompt as input to another.
+- Realized how important **prompt debugging** and iteration is in building real AI apps.
+
+
+3.  **LangChain for LLM Application Development**
+
+LangChain is a Python framework for building AI apps powered by LLMs.
+
+Key Learnings:
+
+- Understood **Chains**: sequences of calls (prompts, tools, models) to solve a task.
+- Explored **Agents**: LLMs that decide which tools or actions to take dynamically.
+- Worked with **Memory**: storing conversation history to allow contextual continuity.
+- Learned how to integrate tools like search, calculators, and APIs into LLM workflows.
+- Got familiar with the **LangChain Expression Language (LCEL)** for composing applications.
+
+
+Conclusion:
+
+By the end of Week 2, I had gained both theoretical and practical knowledge of:
+- How to engineer prompts effectively
+- How to reduce model errors and hallucinations
+- How to structure LLM applications using frameworks like LangChain
+- How to build multi-step, tool-augmented, and memory-aware LLM workflows
+
+This foundation prepares me to build, evaluate, and refine generative AI applications in real-world scenarios.
