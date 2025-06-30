@@ -1,0 +1,4 @@
+In Week 1 and 2, I learned the basics of Generative AI, including:
+- Prompt engineering techniques
+- Zero-shot and few-shot prompting
+- How large language models (LLMs) work and their limitations
