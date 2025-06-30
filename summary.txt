@@ -1,4 +1,16 @@
-In Week 1 and 2, I learned the basics of Generative AI, including:
-- Prompt engineering techniques
-- Zero-shot and few-shot prompting
-- How large language models (LLMs) work and their limitations
+ Week 1 & 2 Learning Summary
+
+ Week 1:
+- Completed Kaggle’s 5-Day Generative AI Learning Path
+- Gained an understanding of what Generative AI is and how it works
+- Explored applications of LLMs like text generation, summarization, and translation
+- Learned basic prompting concepts and how AI models are evaluated
+
+ Week 2:
+- Completed 3 short courses from DeepLearning.AI:
+   ChatGPT Prompt Engineering for Developers  
+   Building Systems with ChatGPT  
+   LangChain for LLM Application Development
+- Learned prompt patterns like zero-shot, few-shot, and role-based prompts
+- Understood how to build reliable multi-step LLM systems
+- Explored how to use LangChain for building LLM apps with memory, chains, and tools
